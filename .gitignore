@@ -48,3 +48,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+# A.Geiger, 22.03.2021
+# Altium Designer: exclude specific files
+
+# Altium Designer: exclude specific folders
+__Previews
+History
