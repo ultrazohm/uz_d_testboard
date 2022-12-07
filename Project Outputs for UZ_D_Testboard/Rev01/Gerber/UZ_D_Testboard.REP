@@ -1,0 +1,268 @@
+*************************************************************
+FileName = UZ_D_Testboard.GBR
+AutoAperture = True
+*************************************************************
+Generating : L01_TopLayer
+      File : UZ_D_Testboard.GTL
+
+    Adding Layer      : L01_TopLayer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : L02_GND
+      File : UZ_D_Testboard.G1
+
+    Adding Layer      : L02_GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D41
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : L03_VCC
+      File : UZ_D_Testboard.G2
+
+    Adding Layer      : L03_VCC
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D36
+    D37
+    D38
+    D39
+    D41
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : L04_BottomLayer
+      File : UZ_D_Testboard.GBL
+
+    Adding Layer      : L04_BottomLayer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D20
+    D21
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D43
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : UZ_D_Testboard.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L04_BottomLayer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : UZ_D_Testboard.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : UZ_D_Testboard.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : UZ_D_Testboard.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : UZ_D_Testboard.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L01_TopLayer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : UZ_D_Testboard.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L01_TopLayer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : UZ_D_Testboard.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L04_BottomLayer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
